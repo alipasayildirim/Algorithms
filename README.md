@@ -75,8 +75,8 @@ Her rakam için öncelikle root sayımızdan büyük mü ona bakıyoruz sola vey
 
 Root rakamından sonra gelen rakama bakıp büyükse sola küçükse sağa ekliyoruz
 
-            3
-     /        \
+         3
+     /       \
     1          7
    /  \       /  \
   0    2     5    8
